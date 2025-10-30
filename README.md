@@ -22,7 +22,7 @@
 ---
 
 ### 📂 Featured Projects
-- 🎯 [College AI Chatbot (SIH 2025)](your_project_link_here) — AI-powered multilingual chatbot using Streamlit & Gemini
+- 🎯 [College AI Chatbot (SIH 2025)](https://github.com/arpi7r4na/CollegeChatbot-1) — AI-powered multilingual chatbot using Streamlit & Gemini
 
 
 ---
