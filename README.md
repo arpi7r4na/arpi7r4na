@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>Building full-stack MERN projects and improving my problem-solving skills through DSA.<br><br>👯 I’m looking to collaborate on  <br>Open-source projects and innovative web applications.<br><br>🤝 I’m looking for help with  <br>System design and building scalable backend architectures.<br><br>🌱 I’m currently learning  <br>Advanced Data Structures, Backend Development (Node.js, Express), and Databases.<br><br>💬 Ask me about  <br>DSA, Competitive Programming, React, and Backend Development.<br><br>⚡ Fun fact  <br>I’ve solved 850+ coding problems and still enjoy debugging more than sleeping 😄
+🔭 I’m currently working on  <br>Building full-stack MERN projects and improving my problem-solving skills through DSA.<br><br>👯 I’m looking to collaborate on  <br>Open-source projects and innovative web applications.<br><br>🤝 I’m looking for help with  <br>System design and building scalable backend architectures.<br><br>🌱 I’m currently learning  <br>Advanced Data Structures, Backend Development (Node.js, Express), and Databases.<br><br>💬 Ask me about  <br>DSA, Competitive Programming, React, and Backend Development.<br><br>⚡ Fun fact  <br>I’ve solved 950+ coding problems and still enjoy debugging more than sleeping 😄
 
 
 ## 🌐 Socials:
